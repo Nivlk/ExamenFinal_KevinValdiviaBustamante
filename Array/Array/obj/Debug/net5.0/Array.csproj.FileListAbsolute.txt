@@ -1,0 +1,16 @@
+C:\Users\nivlk\OneDrive\Documentos\6to-Semestre\Modulo2\Sistemas-Distribuidos\parciales\Examen_final\ExamenFinal_KevinValdiviaBustamante\Array\Array\bin\Debug\net5.0\Array.exe
+C:\Users\nivlk\OneDrive\Documentos\6to-Semestre\Modulo2\Sistemas-Distribuidos\parciales\Examen_final\ExamenFinal_KevinValdiviaBustamante\Array\Array\bin\Debug\net5.0\Array.deps.json
+C:\Users\nivlk\OneDrive\Documentos\6to-Semestre\Modulo2\Sistemas-Distribuidos\parciales\Examen_final\ExamenFinal_KevinValdiviaBustamante\Array\Array\bin\Debug\net5.0\Array.runtimeconfig.json
+C:\Users\nivlk\OneDrive\Documentos\6to-Semestre\Modulo2\Sistemas-Distribuidos\parciales\Examen_final\ExamenFinal_KevinValdiviaBustamante\Array\Array\bin\Debug\net5.0\Array.runtimeconfig.dev.json
+C:\Users\nivlk\OneDrive\Documentos\6to-Semestre\Modulo2\Sistemas-Distribuidos\parciales\Examen_final\ExamenFinal_KevinValdiviaBustamante\Array\Array\bin\Debug\net5.0\Array.dll
+C:\Users\nivlk\OneDrive\Documentos\6to-Semestre\Modulo2\Sistemas-Distribuidos\parciales\Examen_final\ExamenFinal_KevinValdiviaBustamante\Array\Array\bin\Debug\net5.0\ref\Array.dll
+C:\Users\nivlk\OneDrive\Documentos\6to-Semestre\Modulo2\Sistemas-Distribuidos\parciales\Examen_final\ExamenFinal_KevinValdiviaBustamante\Array\Array\bin\Debug\net5.0\Array.pdb
+C:\Users\nivlk\OneDrive\Documentos\6to-Semestre\Modulo2\Sistemas-Distribuidos\parciales\Examen_final\ExamenFinal_KevinValdiviaBustamante\Array\Array\obj\Debug\net5.0\Array.csproj.AssemblyReference.cache
+C:\Users\nivlk\OneDrive\Documentos\6to-Semestre\Modulo2\Sistemas-Distribuidos\parciales\Examen_final\ExamenFinal_KevinValdiviaBustamante\Array\Array\obj\Debug\net5.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nivlk\OneDrive\Documentos\6to-Semestre\Modulo2\Sistemas-Distribuidos\parciales\Examen_final\ExamenFinal_KevinValdiviaBustamante\Array\Array\obj\Debug\net5.0\Array.AssemblyInfoInputs.cache
+C:\Users\nivlk\OneDrive\Documentos\6to-Semestre\Modulo2\Sistemas-Distribuidos\parciales\Examen_final\ExamenFinal_KevinValdiviaBustamante\Array\Array\obj\Debug\net5.0\Array.AssemblyInfo.cs
+C:\Users\nivlk\OneDrive\Documentos\6to-Semestre\Modulo2\Sistemas-Distribuidos\parciales\Examen_final\ExamenFinal_KevinValdiviaBustamante\Array\Array\obj\Debug\net5.0\Array.csproj.CoreCompileInputs.cache
+C:\Users\nivlk\OneDrive\Documentos\6to-Semestre\Modulo2\Sistemas-Distribuidos\parciales\Examen_final\ExamenFinal_KevinValdiviaBustamante\Array\Array\obj\Debug\net5.0\Array.dll
+C:\Users\nivlk\OneDrive\Documentos\6to-Semestre\Modulo2\Sistemas-Distribuidos\parciales\Examen_final\ExamenFinal_KevinValdiviaBustamante\Array\Array\obj\Debug\net5.0\ref\Array.dll
+C:\Users\nivlk\OneDrive\Documentos\6to-Semestre\Modulo2\Sistemas-Distribuidos\parciales\Examen_final\ExamenFinal_KevinValdiviaBustamante\Array\Array\obj\Debug\net5.0\Array.pdb
+C:\Users\nivlk\OneDrive\Documentos\6to-Semestre\Modulo2\Sistemas-Distribuidos\parciales\Examen_final\ExamenFinal_KevinValdiviaBustamante\Array\Array\obj\Debug\net5.0\Array.genruntimeconfig.cache
